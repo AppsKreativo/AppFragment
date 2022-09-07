@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="imagenTitulo">imagen titulo</string>
+    <string name="imagenPrincipal">imagen principal</string>
+    <string name="tvEscucha">Presiona Play y escucha...</string>
+    <string name="tvEmisora">Medellín 104.9FM</string>
+    <string name="btnPlayPause">Boton Play Pause</string>
+    <string name="tvEscucha2">Estás escuchando...</string>
+    <string name="tvEscucha3">Intenta más tarde</string>
+
+    <string name="tituloDialogo">Cerrar Aplicación</string>
+    <string name="mensajeDialogo">Deseas salir de la App?</string>
+    <string name="boton1Dialogo">Si</string>
+    <string name="boton2Dialogo">Cancelar</string>
+    <string name="banner_admob_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Dialogo de Modo dormir -->
+    <string name="tvSleep1">Tiempo de Dormir</string>
+    <string name="tvSleep2">Elige el tiempo de apagado</string>
+    <string name="tvSleep3">Minutos</string>
+    <string name="tvSleep4">Tiempo restante</string>
+    <string name="tvSleep5">00:00</string>
+    <string name="btnSleep1">Activar</string>
+    <string name="btnSleep2">Desactivar</string>
+    <string name="tiempo1">15 min</string>
+    <string name="tiempo2">30 min</string>
+    <string name="tiempo3">45 min</string>
+    <string name="tiempo4">60 min</string>
+    <string name="tiempo5">75 min</string>
+    <string name="tiempo6">90 min</string>
+
+    <!-- items Menu -->
+    <string name="itemInfo">Información</string>
+    <string name="itemEmisora">Emisora</string>
+    <string name="itemSleep">Dormir</string>
+    <string name="itemPolitica">Política Privacidad</string>
+    <string name="itemSalir">Salir</string>
+
+    <!-- Info de la App -->
+    <string name="tvInfo1">Disfruta de la música Tropical, Popular, Merengue, Vallenato, Salsa y más…</string>
+    <string name="tvInfo2">Debes estar conectado a internet para escuchar la Emisora. Puede tardar un poco en cargar, esto depende de la velocidad de tu conexión.</string>
+    <string name="tvInfo3">Aplicación creada por:</string>
+    <string name="tvInfo4">appskreativo@gmail.com</string>
+
+
+</resources>

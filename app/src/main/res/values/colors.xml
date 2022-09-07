@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rojiso">#8b1f05</color>
+    <color name="naranja">#eb330c</color>
+    <color name="naranja3">#f4644c</color>
+    <color name="naranja2">#ee5a39</color>
+    <color name="gris">#919191</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorUno">#ec340c</color>
+    <color name="colorDos">#FFFFFFFF</color>
+</resources>
